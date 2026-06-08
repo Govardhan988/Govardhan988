@@ -1,5 +1,5 @@
 # 💫 About Me:
-Govardhan is a B.Tech 4th-year student with a strong interest in technology, particularly DevOps and Python. I am currently building my skills and preparing to enter the professional world of software and IT. My interest in DevOps suggests that I enjoy understanding how software is developed, deployed, and maintained efficiently, while Python indicates an interest in programming, automation, and problem-solving.
+Iam Govardhan B.Tech 4th-year student with a strong interest in technology, particularly DevOps and Python. I am currently building my skills and preparing to enter the professional world of software and IT. My interest in DevOps suggests that I enjoy understanding how software is developed, deployed, and maintained efficiently, while Python indicates an interest in programming, automation, and problem-solving.
 
 
 # 💻 Tech Stack:
